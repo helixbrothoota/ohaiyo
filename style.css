@@ -1,0 +1,23 @@
+#p1{
+    background-color: rgb(41, 165, 124);
+    
+}
+
+#img1{
+    height: 20%;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 8%;
+}
+
+#img2{
+    height: auto;
+    width: 90%;
+    border-radius: 5%;
+}
+
+#form1{
+    height: auto;
+    width: 50%;
+    margin: auto;
+}

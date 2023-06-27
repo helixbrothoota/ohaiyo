@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\HP\OneDrive\Desktop\programiing\0001>git init
+Reinitialized existing Git repository in C:/Users/HP/OneDrive/Desktop/programiing/0001/.git/
+
+C:\Users\HP\OneDrive\Desktop\programiing\0001> git add .
+
+C:\Users\HP\OneDrive\Desktop\programiing\0001> git commit -m "files added"
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\HP\OneDrive\Desktop\programiing\0001>git push origin master
+remote: Repository not found.
+fatal: repository 'https://github.com/helixbrothoota/landingpage.git/' not found
+
+C:\Users\HP\OneDrive\Desktop\programiing\0001>
